@@ -1,78 +1,94 @@
 # Ellis Donovan
 
-Design Engineer, AI, UX. Based in London.
+**Design Engineer · AI & UX Specialist**  
+London, UK
 
-## About
+## Executive Summary
 
-With over 12 years in the field, I've had the privilege of contributing to world-class enterprise products and services across diverse industries. My approach combines design thinking, engineering expertise, and a deep understanding of AI to address complex challenges.
+Design engineer with over 12 years of experience in developing enterprise products and services across diverse industries. I blend strategic vision, design thinking, and expertise in AI and UX to drive innovation and business growth. Skilled in leading cross-functional teams, integrating AI solutions, and delivering projects that enhance client satisfaction and company reputation.
 
-**Areas of Focus:**
+## Core Competencies
 
-* Translating concepts into functional, user-centric features
-* Facilitating collaboration across multidisciplinary teams
-* Integrating AI solutions to enhance both products and processes
-* Offering comprehensive project execution, from ideation to delivery
+- **Strategic Leadership**
+- **AI Product Strategy and Feature Integration**
+- **Interdisciplinary Design and Engineering Skills**
+- **Bridging Team Collaboration**
+- **Project Ownership**
+- **Design Systems**
 
-> Ellis is an exceptional designer and technical lead. He makes fast, insightful decisions that take into consideration a deep understanding of design, development, and product. He is invaluable in helping teams break through tough problems. More than anything, Ellis is the kind of person you want on your team - always pushing to find the best technical solution, always willing to mentor others, and always a joy to work with.
+## Professional Experience
 
-*James Barge, [Product and Partnerships](https://www.linkedin.com/in/jamesbarge) at [Better.co.uk](https://better.co.uk/)*
+### **Lead Design Engineer**  
+**Canvas Reply** · London, UK | *2021 – Present*
 
-**I've worked with a range of organizations, from startups to industry leaders, including:**
+- Collaborated with a variety of clients on multiple projects, delivering tailored solutions.
+- Aligned product strategies with technical execution, boosting project efficiency.
+- Managed and mentored UX design teams, fostering innovation.
+- Expanded service offerings for major clients, contributing to revenue growth.
+- Led projects that received industry awards, elevating the company's profile.
 
-* Travel & Transport: [easyJet](https://www.easyjet.com/en/), [Transport for London](https://tfl.gov.uk/)
-* Retail & E-commerce: [Sainsburyߴs](https://www.sainsburys.co.uk/), [Tesco](https://www.tesco.com/), [Boohoo](https://www.boohoo.com/), [Auto Trader](https://www.autotrader.co.uk/)
-* Finance & Technology: [Barclays](https://www.barclays.co.uk/), [Microsoft](https://www.microsoft.com/en-gb/)
-* Telecommunications: [Virgin Media O2](https://www.virginmediao2.co.uk/), [Vodafone](https://www.vodafone.co.uk/)
-* Food & Beverage: [Dominoߴs Pizza UK & Ireland](https://www.dominos.co.uk/), [Co-op](https://www.coop.co.uk/), [Diageo](https://www.diageo.com/en)
+### **Lead Design Engineer**  
+**WM Reply** · London, UK | *2019 – 2021*
 
-## Work
+- Worked with numerous clients across various industries, enhancing their digital products.
+- Contributed to the success of the business unit, leading to the creation of Canvas Reply.
+- Oversaw larger project portfolios and cross-functional teams, improving delivery timelines.
+- Implemented new design methodologies that increased team productivity.
 
-### London
+### **Head of Product Design**  
+**Jigowatt** · London, UK | *2015 – 2019*
 
-2021 — Present
+- Established and led an Agile design team, reducing project delivery times.
+- Developed scalable design systems, significantly cutting development time.
+- Worked closely with clients to deliver tailored design solutions across multiple projects.
+- Promoted from Design Engineer to Head of Product Design within two years.
 
-[Canvas Reply](https://reply.com/) · Lead Design Engineer
+### **Associate Researcher**  
+**Samsung/창조경제혁신센터** · Seoul, South Korea | *2017*
 
-* Shaped product direction by connecting strategy with technical implementation
-* Led UX design teams to expand service offerings for major clients
-* Spearheaded award-winning and industry-recognized projects
+- Developed innovation methodologies for startups under Mike Waller.
+- Delivered lectures and workshops.
+- Co-authored research on design practices in startup ecosystems.
 
-2019 — 2021
+## Key Projects
 
-[WM Reply](https://reply.com/) · Design Engineer, then Lead Design Engineer
+- **Vanarama Website Redesign**
+  - Completely redesigned the [Vanarama](https://www.vanarama.com/) website using a robust design system.
+  - The project's success contributed to Vanarama's acquisition by [Auto Trader](https://www.autotrader.co.uk/).
 
-* Achieved uniquely high business unit success, leading to the creation of Canvas Reply
-* Continued and adopted further responsibilities from previous role at Jigowatt
-
-2015 — 2019
-
-[Jigowatt](https://jigowatt.co.uk/) · Design Engineer, then Head of Product Design
-
-* Built and led a skilled Agile design team
-* Created design systems to meet diverse client goals
-* Progressed from Design Engineer to Head of Product Design
-
-### Seoul, SK
-
-2017
-
-[Samsung](https://www.samsung.com/uk/)/[창조경제혁신센터](https://ccei.creativekorea.or.kr/eng/main.do) · Associate Researcher
-
-* Developed innovation methodologies for startup enterprises under Mike Waller
-* Conducted well-received lectures and workshops
-* Contributed to published academic research on design practices in startup communities
+- **easyJet Global Navigation Bar**
+  - Individually designed and engineered the global navigation bar for [easyJet](https://www.easyjet.com/en/) and [easyJet Holidays](https://www.easyjet.com/en/holidays).
+  - While the in-house implementation deviated from my original design, the prototype remains a valuable case study.
 
 ## Education
 
-2013 — 2016
+**Bachelor of Arts in Design**  
+**Goldsmiths, University of London** | *2013 – 2016*  
+- **First-Class Honours**
+- Attended the UK's top-ranked design course (Guardian University Guide 2013–2017)
 
-[Goldsmiths, University of London](https://www.gold.ac.uk/design/) · Bachelor's Degree, Design
+## Selected Clients
 
-* First-Class Honours
-* Notably, this was the leading Design course in the UK as ranked by the Guardian University Guide 2013-2017.
+- **Travel & Transport:** [easyJet](https://www.easyjet.com/en/), [Transport for London](https://tfl.gov.uk/), [Vanarama](https://www.vanarama.com/)
+- **Retail & E-commerce:** [Sainsbury's](https://www.sainsburys.co.uk/), [Tesco](https://www.tesco.com/), [Boohoo](https://www.boohoo.com/)
+- **Finance & Tech:** [Barclays](https://www.barclays.co.uk/), [Microsoft](https://www.microsoft.com/en-gb/)
+- **Telecommunications:** [Virgin Media O2](https://www.virginmediao2.co.uk/), [Vodafone](https://www.vodafone.co.uk/)
+- **Food & Beverage:** [Domino's Pizza](https://www.dominos.co.uk/), [Co-op](https://www.coop.co.uk/), [Diageo](https://www.diageo.com/en)
+
+## Testimonials
+
+> "Ellis is an exceptional designer and technical lead. He makes fast, insightful decisions that consider a deep understanding of design, development, and product. He is invaluable in helping teams break through tough problems. More than anything, Ellis is the kind of person you want on your team—always pushing for the best technical solution, always willing to mentor others, and always a joy to work with."
+
+*— James Barge, [Product and Partnerships](https://www.linkedin.com/in/jamesbarge) at [Better.co.uk](https://better.co.uk/)*
+
+---
+
+> "It was wonderful to work with Ellis at WM Reply. He was constantly mindful of sharing his knowledge within the team and could balance the focus of UX, developers, and stakeholders. Even when given constraints, Ellis proved capable of delivering truly innovative solutions. Aside from his pragmatism, work ethic, and attention to detail, I felt that he respected my expertise and approached each aspect of the work as a partnership."
+
+*— Maria Katharina Zemann, Business Analyst at DB Fernverkehr AG*
 
 ## Contact
 
-* [linkedin.com/eIIis](https://linkedin.com/in/eIIis)
-* [me@eII.is](mailto:me@eII.is)
-* [eII.is](https://eii.is/)
+- **LinkedIn:** [linkedin.com/eIIis](https://linkedin.com/in/eIIis)
+- **Email:** [me@eII.is](mailto:me@eII.is)
+- **Website:** [eII.is](https://eii.is/)
