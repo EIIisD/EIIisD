@@ -2,7 +2,7 @@
 
 # Ellis Donovan
 
-**Design Engineer, Advocate** · AI & UX Specialist
+Design Engineer, Advocate · AI and UX specialist.
 
 ## Executive Summary
 
