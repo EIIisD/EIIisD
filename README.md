@@ -3,6 +3,7 @@
 # Ellis Donovan
 
 **Design Engineer, Advocate · AI & UX Specialist**
+
 🇬🇧 London, UK
 
 ## Executive Summary
