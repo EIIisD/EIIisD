@@ -1,5 +1,3 @@
-![](https://ellisdonovan.s3.eu-west-2.amazonaws.com/438203985_1414298639272201_4180546237216775441_n.png)
-
 # Ellis Donovan
 
 Design Engineer, Advocate · AI and UX specialist.
