@@ -1,4 +1,4 @@
-# Ellis Donovan
+# Ellis G. Donovan
 
 Design Engineer, Advocate · AI and UX specialist.
 
