@@ -17,7 +17,8 @@ Design engineer with over 12 years of experience in developing enterprise produc
 
 ## Professional Experience
 
-### **Lead Design Engineer**  
+### Lead Design Engineer *(continued)*
+
 **Canvas Reply** · London, UK | *2021 – Present*
 
 - Collaborated with a variety of clients on multiple projects, delivering tailored solutions.
@@ -26,7 +27,8 @@ Design engineer with over 12 years of experience in developing enterprise produc
 - Expanded service offerings for major clients, contributing to revenue growth.
 - Led projects that received industry awards, elevating the company's profile.
 
-### **Lead Design Engineer**  
+### Lead Design Engineer
+
 **WM Reply** · London, UK | *2019 – 2021*
 
 - Worked with numerous clients across various industries, enhancing their digital products.
@@ -34,7 +36,8 @@ Design engineer with over 12 years of experience in developing enterprise produc
 - Oversaw larger project portfolios and cross-functional teams, improving delivery timelines.
 - Implemented new design methodologies that increased team productivity.
 
-### **Head of Product Design**  
+### Head of Product Design  
+
 **Jigowatt** · London, UK | *2015 – 2019*
 
 - Established and led an Agile design team, reducing project delivery times.
@@ -42,7 +45,8 @@ Design engineer with over 12 years of experience in developing enterprise produc
 - Worked closely with clients to deliver tailored design solutions across multiple projects.
 - Promoted from Design Engineer to Head of Product Design within two years.
 
-### **Associate Researcher**  
+### Associate Researcher  
+
 **Samsung/창조경제혁신센터** · Seoul, South Korea | *2017*
 
 - Developed innovation methodologies for startups under Mike Waller.
@@ -63,6 +67,7 @@ Design engineer with over 12 years of experience in developing enterprise produc
 
 **Bachelor of Arts in Design**  
 **Goldsmiths, University of London** | *2013 – 2016*  
+
 - **First-Class Honours**
 - Attended the UK's top-ranked design course (Guardian University Guide 2013–2017)
 
@@ -84,7 +89,7 @@ Design engineer with over 12 years of experience in developing enterprise produc
 
 > "It was wonderful to work with Ellis at WM Reply. He was constantly mindful of sharing his knowledge within the team and could balance the focus of UX, developers, and stakeholders. Even when given constraints, Ellis proved capable of delivering truly innovative solutions. Aside from his pragmatism, work ethic, and attention to detail, I felt that he respected my expertise and approached each aspect of the work as a partnership."
 
-*— Maria Katharina Zemann, Business Analyst at DB Fernverkehr AG*
+*— Maria Katharina Zemann, Business Analyst at [DB Fernverkehr AG](https://www.deutschebahn.com/)*
 
 ## Contact
 
