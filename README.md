@@ -5,11 +5,9 @@
 
 > The following CV has been prepared at the request of a discerning party who said, "Write a full CV using predominantly simple past and present perfect tense to describe responsibilities, accomplishments, and ongoing experiences. Use the simple past tense for completed actions or specific tasks in their previous roles, and utilise the present perfect tense for ongoing responsibilities and experiences." In other words, blame them if this feels grammatically meticulous and strangely tense-focused.
 
----
-
 ## Profile
 
-I have worked as a product designer and engineer for more than ten years, leading efforts on digital services, enterprise-level design systems, and complex user experiences. Over this period, I have guided cross-disciplinary teams, integrated human-centred design principles, and introduced emerging technologies, including careful use of AI-driven tools (no, not the kind that immediately becomes a rogue superintelligence). While I have gradually moved from hands-on execution to strategic oversight, I have always maintained a strong focus on knowledge sharing and practical outcomes.
+I have worked as a product designer and engineer for more than ten years, leading efforts on digital services, enterprise-level design systems, and complex user experiences. Over this period, I have guided cross-disciplinary teams, integrated human-centred design principles, and introduced emerging technologies, including careful use of AI-driven tools and avoiding rogue superintelligences. While I have gradually moved from hands-on execution to strategic oversight, I have always maintained a strong focus on knowledge sharing and practical outcomes.
 
 ---
 
@@ -22,7 +20,7 @@ I have worked as a product designer and engineer for more than ten years, leadin
 - I have led UXD teams serving major clients, including Domino’s Pizza UK & Ireland, easyJet, and Vanarama.
 - I delivered an award-winning redesign of Domino’s digital interface, which increased online sales by 8% and mobile conversion rates by 57%.
 - I developed several microservices for the easyJet Holidays website launch, and these efforts received recognition from industry awards.
-- I independently created an enterprise-scale design system for Vanarama.com, contributing to a £500m share capital acquisition and earning a Best eCommerce Implementation award at the UK Business Tech Awards 2022.
+- I independently created an enterprise-scale design system for Vanarama.com, contributing to a £500m share capital acquisition by Autotrader.com and earning a Best eCommerce Implementation award at the UK Business Tech Awards 2022.
 - I have expanded the agency’s service offerings through internal workshops, sharing insights on technologies such as SvelteKit, Next.js, Tailwind, and advising on the responsible use of AI language models.
 
 ### Head of Product Design, Jigowatt (Feb 2015 – Sep 2019)
