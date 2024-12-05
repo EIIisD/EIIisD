@@ -1,7 +1,7 @@
 # Ellis G. Donovan
 
-**Location:** London, UK
-**Contact:** [linkedin.com/in/eIIis](http://www.linkedin.com/in/eIIis) ∙ <ellisdonovan@me.com> ∙ +44 (0)7778 227510
+- **Location:** London, UK
+- **Contact:** [linkedin.com/in/eIIis](http://www.linkedin.com/in/eIIis) ∙ <ellisdonovan@me.com> ∙ +44 (0)7778 227510
 
 > The following CV has been prepared at the request of a discerning party who said, "Write a full CV using predominantly simple past and present perfect tense to describe responsibilities, accomplishments, and ongoing experiences. Use the simple past tense for completed actions or specific tasks in their previous roles, and utilise the present perfect tense for ongoing responsibilities and experiences." In other words, blame them if this feels grammatically meticulous and strangely tense-focused.
 
