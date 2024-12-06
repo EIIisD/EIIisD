@@ -1,15 +1,12 @@
 # Ellis G. Donovan
 
-- **Location:** London, UK
-- **Contact:** [linkedin.com/in/eIIis](http://www.linkedin.com/in/eIIis) ∙ <ellisdonovan@me.com> ∙ +44 (0)7778 227510
+The following CV has been prepared at the request of a discerning party who said:
 
-> The following CV has been prepared at the request of a discerning party who said, "Write a full CV using predominantly simple past and present perfect tense to describe responsibilities, accomplishments, and ongoing experiences. Use the simple past tense for completed actions or specific tasks in their previous roles, and utilise the present perfect tense for ongoing responsibilities and experiences." In other words, blame them if this feels grammatically meticulous and strangely tense-focused.
+> “Prepare a grammatically meticulous CV using predominantly simple past and present perfect tense to describe responsibilities, accomplishments, and ongoing experiences. Use the simple past tense for completed actions or specific tasks in their previous roles, and utilise the present perfect tense for ongoing responsibilities and experiences.“
 
 ## Profile
 
 I have worked as a product designer and engineer for more than ten years, leading efforts on digital services, enterprise-level design systems, and complex user experiences. Over this period, I have guided cross-disciplinary teams, integrated human-centred design principles, and introduced emerging technologies, including careful use of AI-driven tools and avoiding rogue superintelligences. While I have gradually moved from hands-on execution to strategic oversight, I have always maintained a strong focus on knowledge sharing and practical outcomes.
-
----
 
 ## Professional Experience
 
@@ -36,27 +33,45 @@ I have worked as a product designer and engineer for more than ten years, leadin
 - I developed and delivered a series of workshops that helped participants employ new design approaches in their prototype development.
 - I co-authored a research article on the viability of design practices in startup communities.
 
----
-
 ## Publications
 
 “Developing Innovation Methodologies for Start-ups.” In: 10 Day Creative Innovation Workshop for Start-ups in South Korea, Centre for Creative Economy and Innovation, Republic of Korea, 2018.
 
----
-
 ## Education
 
-**BA, Design (First-Class Honours), Goldsmiths, University of London (2012–2015)**
+### BA, Design (First-Class Honours), Goldsmiths, University of London (2012–2015)
+
 I studied on a leading UK design programme and completed my degree with first-class honours, gaining a strong foundation in both conceptual and practical design skills.
 
+## Selected Clients
+
+- **Travel & Transport:** [easyJet](https://www.easyjet.com/en/), [Transport for London](https://tfl.gov.uk/), [Vanarama](https://www.vanarama.com/)
+- **Retail & E-commerce:** [Sainsbury's](https://www.sainsburys.co.uk/), [Tesco](https://www.tesco.com/), [Boohoo](https://www.boohoo.com/)
+- **Finance & Tech:** [Barclays](https://www.barclays.co.uk/), [Microsoft](https://www.microsoft.com/en-gb/)
+- **Telecommunications:** [Virgin Media O2](https://www.virginmediao2.co.uk/), [Vodafone](https://www.vodafone.co.uk/)
+- **Food & Beverage:** [Domino's Pizza](https://www.dominos.co.uk/), [Co-op](https://www.coop.co.uk/), [Diageo](https://www.diageo.com/en)
+
+## Testimonials
+
+> “Ellis is an exceptional designer and technical lead. He makes fast, insightful decisions that consider a deep understanding of design, development, and product. He is invaluable in helping teams break through tough problems. More than anything, Ellis is the kind of person you want on your team—always pushing for the best technical solution, always willing to mentor others, and always a joy to work with.“
+
+*— James Barge, [Product and Partnerships](https://www.linkedin.com/in/jamesbarge) at [Better.co.uk](https://better.co.uk/)*
+
 ---
 
-## Select Clients
+> “It was wonderful to work with Ellis at WM Reply. He was constantly mindful of sharing his knowledge within the team and could balance the focus of UX, developers, and stakeholders. Even when given constraints, Ellis proved capable of delivering truly innovative solutions. Aside from his pragmatism, work ethic, and attention to detail, I felt that he respected my expertise and approached each aspect of the work as a partnership.“
 
-Domino’s Pizza UK & Ireland, easyJet, Auto Trader, JD Sports, Virgin Media O2, Sainsbury’s, Barclays, Co-op, Transport for London, Boohoo, Diageo, Tesco, Microsoft, Vodafone
+*— Maria Katharina Zemann, Business Analyst at [DB Fernverkehr AG](https://www.deutschebahn.com/)*
 
----
+## Contact
 
-## References
+I work internationally from my home office in Canary Wharf, London.
 
-> “Ellis made fast, insightful decisions that considered a deep understanding of design, development, and product. He was invaluable in helping teams break through complex, cross-disciplinary problems and was always a joy to work with.” — James Barge, Product Manager at Keebo
+- [me@eII.is](mailto:me@eII.is)
+- [+44 (0) 7778 227510](tel:+447778227510)
+
+### Public Profiles
+
+- [eII.is](https://eii.is/)
+- [github.com/eIIisD](https://github.com/EIIisD)
+- [linkedin.com/eIIis](https://linkedin.com/in/eIIis)
